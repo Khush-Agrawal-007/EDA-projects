@@ -1,4 +1,4 @@
-# Black Friday — EDA & Feature Engineering
+﻿# Black Friday â€” EDA & Feature Engineering
 
 **Author:** Khush Agrawal
 
@@ -26,3 +26,4 @@ jupyter nbconvert --to html "Main File/2- BlackFriday EDA And Feature Engineerin
 
 Next steps
 - I will run the notebook, produce visualizations, and summarize the feature importances and modeling notes.
+

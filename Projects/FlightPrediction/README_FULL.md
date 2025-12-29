@@ -1,5 +1,5 @@
-```markdown
-# Flight Delay Prediction — Model, Evaluation & Deployment Notes
+﻿```markdown
+# Flight Delay Prediction â€” Model, Evaluation & Deployment Notes
 
 _Predicting delays to improve passenger experience and operational planning._
 
@@ -47,12 +47,12 @@ This project builds and evaluates models to predict flight delays using historic
 
 ```
 Projects/FlightPrediction/
-├── FlightPrediction.ipynb
-├── Data_Train.xlsx
-├── Test_set.xlsx
-├── README_Khush.md
-├── README_FULL.md
-└── images/ (exported figures)
+â”œâ”€â”€ FlightPrediction.ipynb
+â”œâ”€â”€ Data_Train.xlsx
+â”œâ”€â”€ Test_set.xlsx
+â”œâ”€â”€ README_Khush.md
+â”œâ”€â”€ README_FULL.md
+â””â”€â”€ images/ (exported figures)
 ```
 
 ## Data Cleaning & Feature Engineering
@@ -71,7 +71,7 @@ Projects/FlightPrediction/
 - Use precision/recall and ROC-AUC for classification of delayed vs on-time flights.
 - For probabilistic scores, use calibration plots and Brier score.
 
-## Key Findings (summary — fill after running)
+## Key Findings (summary â€” fill after running)
 
 - Most predictive features: [feature1, feature2, feature3].
 - Baseline model AUC: X.XX; production candidate AUC: Y.YY.
@@ -113,3 +113,4 @@ GitHub: <YOUR_GITHUB_URL>
 Portfolio / Codolio: <YOUR_CODOLIO_URL>
 
 ```
+

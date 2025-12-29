@@ -1,4 +1,4 @@
-# Vendor Performance Analysis — Retail Inventory & Sales
+﻿# Vendor Performance Analysis â€” Retail Inventory & Sales
 
 **Author:** Khush Agrawal
 
@@ -24,3 +24,4 @@ jupyter nbconvert --to html notebooks/vendor_performance_analysis.ipynb --output
 
 Next steps
 - I will run the ingestion scripts and notebooks, then summarize statistical test results and final recommendations.
+

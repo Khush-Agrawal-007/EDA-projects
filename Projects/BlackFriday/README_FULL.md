@@ -1,5 +1,5 @@
-```markdown
-# Black Friday — EDA, Feature Engineering & Modeling Notes
+﻿```markdown
+# Black Friday â€” EDA, Feature Engineering & Modeling Notes
 
 _A focused exploration of Black Friday retail sales to prepare data for predictive models and provide business recommendations._
 
@@ -47,10 +47,10 @@ This project analyzes historical Black Friday sales to extract patterns, enginee
 
 ```
 Projects/BlackFriday/
-├── 2- BlackFriday EDA And Feature Engineering.ipynb
-├── README.md
-├── README_FULL.md
-├── images/ (exported plots)
+â”œâ”€â”€ 2- BlackFriday EDA And Feature Engineering.ipynb
+â”œâ”€â”€ README.md
+â”œâ”€â”€ README_FULL.md
+â”œâ”€â”€ images/ (exported plots)
 ```
 
 ## Data Cleaning & Feature Engineering
@@ -71,7 +71,7 @@ Projects/BlackFriday/
 - Baseline models: Linear regression, Random Forest, XGBoost.
 - Recommended evaluation: RMSE for regression tasks; use cross-validation and holdout test set.
 
-## Key Findings (summary — fill after running)
+## Key Findings (summary â€” fill after running)
 
 - Top product categories by revenue: [Category A, Category B].
 - Top customer segment for retention: [AgeGroup, Frequency].
@@ -114,3 +114,4 @@ GitHub: <YOUR_GITHUB_URL>
 Portfolio / Codolio: <YOUR_CODOLIO_URL>
 
 ```
+

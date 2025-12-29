@@ -1,4 +1,4 @@
-# Flight Delay Prediction — Notebook
+﻿# Flight Delay Prediction â€” Notebook
 
 **Author:** Khush Agrawal
 
@@ -21,3 +21,4 @@ jupyter nbconvert --to html "Main File/Flight Prediction/FlightPrediction.ipynb"
 
 Next steps
 - I will run end-to-end training cells, save the trained model artifact, and summarize model performance (precision/recall/AUC).
+

@@ -1,5 +1,5 @@
-```markdown
-# Customer Shopping Behavior — Full Project README
+﻿```markdown
+# Customer Shopping Behavior â€” Full Project README
 
 _Industry-style end-to-end analysis of retail customer transactions with SQL, Python, and Power BI._
 
@@ -47,12 +47,12 @@ This portfolio project demonstrates an end-to-end analytics workflow: cleaning r
 
 ```
 customer-trends-data-analysis-SQL-Python-PowerBI/
-├── Customer_Shopping_Behavior_Analysis.ipynb
-├── customer_shopping_behavior.csv
-├── customer_behavior_sql_queries.sql
-├── customer_behavior_dashboard.pbix
-├── README_FULL.md
-└── images/ (exported visuals)
+â”œâ”€â”€ Customer_Shopping_Behavior_Analysis.ipynb
+â”œâ”€â”€ customer_shopping_behavior.csv
+â”œâ”€â”€ customer_behavior_sql_queries.sql
+â”œâ”€â”€ customer_behavior_dashboard.pbix
+â”œâ”€â”€ README_FULL.md
+â””â”€â”€ images/ (exported visuals)
 ```
 
 ## Data Cleaning & Transformation
@@ -114,3 +114,4 @@ GitHub: <YOUR_GITHUB_URL>
 Portfolio / Codolio: <YOUR_CODOLIO_URL>
 
 ```
+

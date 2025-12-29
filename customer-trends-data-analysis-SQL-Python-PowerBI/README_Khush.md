@@ -1,4 +1,4 @@
-# Customer Shopping Behavior — Portfolio Project
+﻿# Customer Shopping Behavior â€” Portfolio Project
 
 **Author:** Khush Agrawal
 
@@ -27,3 +27,4 @@ jupyter nbconvert --to html Customer_Shopping_Behavior_Analysis.ipynb --output C
 
 Next steps
 - I will run the notebook, compute cohort/retention metrics, and fill in the key insights section with concrete numbers.
+

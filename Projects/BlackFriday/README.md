@@ -1,4 +1,4 @@
-# Black Friday EDA & Feature Engineering — human summary
+﻿# Black Friday EDA & Feature Engineering â€” human summary
 
 Author: Khush Agrawal
 
@@ -25,4 +25,5 @@ Next steps
 - I will run the notebook, capture the feature list and model notes, and paste concrete performance metrics into this README.
 
 Contact
-- Khush Agrawal — add LinkedIn/GitHub/Codolio links.
+- Khush Agrawal â€” add LinkedIn/GitHub/Codolio links.
+

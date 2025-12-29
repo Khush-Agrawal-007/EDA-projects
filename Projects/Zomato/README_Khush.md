@@ -1,4 +1,4 @@
-# Zomatodataset — EDA & Feature Work
+﻿# Zomatodataset â€” EDA & Feature Work
 
 **Author:** Khush Agrawal
 
@@ -25,3 +25,4 @@ jupyter nbconvert --to html "Main File/Zomatodataset/1-EDA And Feature Engineeri
 
 Next steps
 - I'll run the notebook, finalize the feature set, and add concrete insights (top cuisines, rating drivers, price analysis).
+

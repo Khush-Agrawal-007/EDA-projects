@@ -1,4 +1,4 @@
-# Zomato — Exploratory Data Analysis
+﻿# Zomato â€” Exploratory Data Analysis
 
 **Author:** Khush Agrawal
 
@@ -31,3 +31,4 @@ jupyter nbconvert --to html Zomato.ipynb --output Zomato_report.html
 
 Next steps
 - I will run and validate the notebook, then populate the Key Insights section with findings.
+

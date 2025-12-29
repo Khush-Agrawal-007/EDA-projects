@@ -1,11 +1,11 @@
-
-# 🧾 Vendor Performance Analysis – Retail Inventory & Sales
+﻿
+# ðŸ§¾ Vendor Performance Analysis â€“ Retail Inventory & Sales
 
 _Analyzing vendor efficiency and profitability to support strategic purchasing and inventory decisions using SQL, Python, and Power BI._
 
 ---
 
-## 📌 Table of Contents
+## ðŸ“Œ Table of Contents
 - <a href="#overview">Overview</a>
 - <a href="#business-problem">Business Problem</a>
 - <a href="#dataset">Dataset</a>
@@ -54,30 +54,30 @@ Effective inventory and sales management are critical in the retail sector. This
 
 ```
 vendor-performance-analysis/
-│
-├── README.md
-├── .gitignore
-├── requirements.txt
-├── Vendor Performance Report.pdf
-│
-├── notebooks/                  # Jupyter notebooks
-│   ├── exploratory_data_analysis.ipynb
-│   ├── vendor_performance_analysis.ipynb
-│
-├── scripts/                    # Python scripts for ingestion and processing
-│   ├── ingestion_db.py
-│   └── get_vendor_summary.py
-│
-├── dashboard/                  # Power BI dashboard file
-│   └── vendor_performance_dashboard.pbix
+â”‚
+â”œâ”€â”€ README.md
+â”œâ”€â”€ .gitignore
+â”œâ”€â”€ requirements.txt
+â”œâ”€â”€ Vendor Performance Report.pdf
+â”‚
+â”œâ”€â”€ notebooks/                  # Jupyter notebooks
+â”‚   â”œâ”€â”€ exploratory_data_analysis.ipynb
+â”‚   â”œâ”€â”€ vendor_performance_analysis.ipynb
+â”‚
+â”œâ”€â”€ scripts/                    # Python scripts for ingestion and processing
+â”‚   â”œâ”€â”€ ingestion_db.py
+â”‚   â””â”€â”€ get_vendor_summary.py
+â”‚
+â”œâ”€â”€ dashboard/                  # Power BI dashboard file
+â”‚   â””â”€â”€ vendor_performance_dashboard.pbix
 ```
 
 ---
 <h2><a class="anchor" id="data-cleaning--preparation"></a>Data Cleaning & Preparation</h2>
 
 - Removed transactions with:
-  - Gross Profit ≤ 0
-  - Profit Margin ≤ 0
+  - Gross Profit â‰¤ 0
+  - Profit Margin â‰¤ 0
   - Sales Quantity = 0
 - Created summary tables with vendor-level metrics
 - Converted data types, handled outliers, merged lookup tables
@@ -87,7 +87,7 @@ vendor-performance-analysis/
 
 **Negative or Zero Values Detected:**
 - Gross Profit: Min -52,002.78 (loss-making sales)
-- Profit Margin: Min -∞ (sales at zero or below cost)
+- Profit Margin: Min -âˆž (sales at zero or below cost)
 - Unsold Inventory: Indicating slow-moving stock
 
 **Outliers Identified:**
@@ -103,13 +103,13 @@ vendor-performance-analysis/
 <h2><a class="anchor" id="research-questions--key-findings"></a>Research Questions & Key Findings</h2>
 
 1. **Brands for Promotions**: 198 brands with low sales but high profit margins
-2. **Top Vendors**: Top 10 vendors = 65.69% of purchases → risk of over-reliance
+2. **Top Vendors**: Top 10 vendors = 65.69% of purchases â†’ risk of over-reliance
 3. **Bulk Purchasing Impact**: 72% cost savings per unit in large orders
 4. **Inventory Turnover**: $2.71M worth of unsold inventory
 5. **Vendor Profitability**:
    - High Vendors: Mean Margin = 31.17%
    - Low Vendors: Mean Margin = 41.55%
-6. **Hypothesis Testing**: Statistically significant difference in profit margins → distinct vendor strategies
+6. **Hypothesis Testing**: Statistically significant difference in profit margins â†’ distinct vendor strategies
 
 ---
 <h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
@@ -154,3 +154,4 @@ python scripts/get_vendor_summary.py
 
 ---
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
+

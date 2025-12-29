@@ -1,4 +1,4 @@
-# Flight Delay Prediction — plain English summary
+﻿# Flight Delay Prediction â€” plain English summary
 
 Author: Khush Agrawal
 
@@ -27,4 +27,5 @@ Next steps
 - I will run the notebook fully, save a model artifact, and paste final evaluation metrics into this README.
 
 Contact
-- Khush Agrawal — add personal links.
+- Khush Agrawal â€” add personal links.
+
