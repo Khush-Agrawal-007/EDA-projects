@@ -128,7 +128,8 @@ Suggested models:
 - Cleaned, feature-engineered dataset (exported from the notebook)
 - Reproducible analysis workflow
 
----
+---git remote add origin https://github.com/<your-username>/<repo-name>.git
+git push -u origin main
 
 ## 10. How to Run the Project
 
