@@ -19,11 +19,4 @@ Projects covered (organized under `Projects/`)
 - Zomatodataset preprocessing â€” `Main File/Zomatodataset/1-EDA And Feature Engineering.ipynb` (see `Projects/Zomato`)
 - Vendor Performance Analysis â€” `Projects/VendorPerformance/README.md` (repo `vendor-performance-analysis-sql-python-powerbi-test-main`)
 
-Recommended next actions (I can run these for you):
-1. Install dependencies and run each notebook end-to-end to capture final outputs.
-2. Export notebooks to HTML and/or PDF for portfolio sharing.
-3. Replace the contact placeholders above with your live URLs.
-
-Quick export command example: jupyter nbconvert --to html "Zomato.ipynb" --output Zomato_report.html
-
 
