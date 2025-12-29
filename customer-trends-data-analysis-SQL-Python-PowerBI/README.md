@@ -45,6 +45,7 @@ MIT
 **Khush Agrawal**
 
 - GitHub: https://github.com/Khush-Bhau
+ - GitHub: https://github.com/Khush-Agrawal-007
 - LinkedIn: https://www.linkedin.com/in/khush-agrawal007
 - Codolio: https://codolio.com/profile/khushagrawal
 

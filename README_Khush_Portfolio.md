@@ -6,6 +6,7 @@
 - Name: Khush Agrawal
 - LinkedIn: https://www.linkedin.com/in/khush-agrawal007
 - GitHub: https://github.com/Khush-Bhau
+ - GitHub: https://github.com/Khush-Agrawal-007
 - Codolio / Portfolio: https://codolio.com/profile/khushagrawal
 
 This workspace contains multiple end-to-end EDA and modeling projects. Each project folder now includes a personalized README (created by me) with run instructions and next steps.

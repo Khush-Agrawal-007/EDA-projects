@@ -155,4 +155,9 @@ python scripts/get_vendor_summary.py
 ---
 <h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
 
+**Khush Agrawal**  
+LinkedIn: https://www.linkedin.com/in/khush-agrawal007  
+GitHub: https://github.com/Khush-Agrawal-007  
+Portfolio / Codolio: https://codolio.com/profile/khushagrawal
+
 

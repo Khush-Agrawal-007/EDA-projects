@@ -5,6 +5,7 @@
 **Contact:**
 - LinkedIn: https://www.linkedin.com/in/khush-agrawal007
 - GitHub: https://github.com/Khush-Bhau
+ - GitHub: https://github.com/Khush-Agrawal-007
 - Codolio / Portfolio: https://codolio.com/profile/khushagrawal
 
 Project summary

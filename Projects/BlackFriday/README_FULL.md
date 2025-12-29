@@ -110,7 +110,7 @@ jupyter nbconvert --to html "Projects/BlackFriday/2- BlackFriday EDA And Feature
 
 **Khush Agrawal**  
 LinkedIn: https://www.linkedin.com/in/khush-agrawal007  
-GitHub: https://github.com/Khush-Bhau  
+GitHub: https://github.com/Khush-Agrawal-007  
 Portfolio / Codolio: https://codolio.com/profile/khushagrawal
 
 ```

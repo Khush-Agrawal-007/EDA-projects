@@ -25,6 +25,9 @@ Next steps
 - I will run the notebook, capture the feature list and model notes, and paste concrete performance metrics into this README.
 
 Contact
-- Khush Agrawal â€” add LinkedIn/GitHub/Codolio links.
+- **Khush Agrawal**  
+	LinkedIn: https://www.linkedin.com/in/khush-agrawal007  
+	GitHub: https://github.com/Khush-Bhau  
+	Portfolio / Codolio: https://codolio.com/profile/khushagrawal
 
 

@@ -27,6 +27,9 @@ Next steps
 - I will run the notebook fully, save a model artifact, and paste final evaluation metrics into this README.
 
 Contact
-- Khush Agrawal â€” add personal links.
+- **Khush Agrawal**  
+	LinkedIn: https://www.linkedin.com/in/khush-agrawal007  
+	GitHub: https://github.com/Khush-Agrawal-007  
+	Portfolio / Codolio: https://codolio.com/profile/khushagrawal
 
 
