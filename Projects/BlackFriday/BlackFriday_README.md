@@ -3,9 +3,9 @@
 **Author:** Khush Agrawal
 
 **Contact:**
-- LinkedIn: <YOUR_LINKEDIN_URL>
-- GitHub: <YOUR_GITHUB_URL>
-- Codolio / Portfolio: <YOUR_CODOLIO_URL>
+- LinkedIn: https://www.linkedin.com/in/khush-agrawal007
+- GitHub: https://github.com/Khush-Bhau
+- Codolio / Portfolio: https://codolio.com/profile/khushagrawal
 
 Project summary
 - Notebook: `Main File/2- BlackFriday EDA And Feature Engineering.ipynb`
@@ -26,4 +26,5 @@ jupyter nbconvert --to html "Main File/2- BlackFriday EDA And Feature Engineerin
 
 Next steps
 - I will run the notebook, produce visualizations, and summarize the feature importances and modeling notes.
+
 

@@ -3,9 +3,9 @@
 **Author:** Khush Agrawal
 
 **Contact:**
-- LinkedIn: <YOUR_LINKEDIN_URL>
-- GitHub: <YOUR_GITHUB_URL>
-- Codolio / Portfolio: <YOUR_CODOLIO_URL>
+- LinkedIn: https://www.linkedin.com/in/khush-agrawal007
+- GitHub: https://github.com/Khush-Bhau
+- Codolio / Portfolio: https://codolio.com/profile/khushagrawal
 
 Project summary
 - Notebooks: `notebooks/exploratory_data_analysis.ipynb`, `notebooks/vendor_performance_analysis.ipynb`
@@ -24,4 +24,5 @@ jupyter nbconvert --to html notebooks/vendor_performance_analysis.ipynb --output
 
 Next steps
 - I will run the ingestion scripts and notebooks, then summarize statistical test results and final recommendations.
+
 

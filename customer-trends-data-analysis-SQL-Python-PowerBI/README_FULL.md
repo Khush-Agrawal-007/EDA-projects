@@ -109,9 +109,10 @@ jupyter nbconvert --to html Customer_Shopping_Behavior_Analysis.ipynb --output C
 ## Author & Contact
 
 **Khush Agrawal**  
-LinkedIn: <YOUR_LINKEDIN_URL>  
-GitHub: <YOUR_GITHUB_URL>  
-Portfolio / Codolio: <YOUR_CODOLIO_URL>
+LinkedIn: https://www.linkedin.com/in/khush-agrawal007  
+GitHub: https://github.com/Khush-Bhau  
+Portfolio / Codolio: https://codolio.com/profile/khushagrawal
 
 ```
+
 

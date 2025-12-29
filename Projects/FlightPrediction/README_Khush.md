@@ -3,9 +3,9 @@
 **Author:** Khush Agrawal
 
 **Contact:**
-- LinkedIn: <YOUR_LINKEDIN_URL>
-- GitHub: <YOUR_GITHUB_URL>
-- Codolio / Portfolio: <YOUR_CODOLIO_URL>
+- LinkedIn: https://www.linkedin.com/in/khush-agrawal007
+- GitHub: https://github.com/Khush-Bhau
+- Codolio / Portfolio: https://codolio.com/profile/khushagrawal
 
 Project summary
 - Notebook: `Main File/Flight Prediction/FlightPrediction.ipynb`
@@ -21,4 +21,5 @@ jupyter nbconvert --to html "Main File/Flight Prediction/FlightPrediction.ipynb"
 
 Next steps
 - I will run end-to-end training cells, save the trained model artifact, and summarize model performance (precision/recall/AUC).
+
 

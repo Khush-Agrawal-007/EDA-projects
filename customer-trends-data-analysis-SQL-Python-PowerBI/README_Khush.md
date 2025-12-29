@@ -3,9 +3,9 @@
 **Author:** Khush Agrawal
 
 **Contact:**
-- LinkedIn: <YOUR_LINKEDIN_URL>
-- GitHub: <YOUR_GITHUB_URL>
-- Codolio / Portfolio: <YOUR_CODOLIO_URL>
+- LinkedIn: https://www.linkedin.com/in/khush-agrawal007
+- GitHub: https://github.com/Khush-Bhau
+- Codolio / Portfolio: https://codolio.com/profile/khushagrawal
 
 Project summary
 - Notebook: `Customer_Shopping_Behavior_Analysis.ipynb`
@@ -27,4 +27,5 @@ jupyter nbconvert --to html Customer_Shopping_Behavior_Analysis.ipynb --output C
 
 Next steps
 - I will run the notebook, compute cohort/retention metrics, and fill in the key insights section with concrete numbers.
+
 

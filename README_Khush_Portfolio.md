@@ -4,9 +4,9 @@
 
 **Contact:**
 - Name: Khush Agrawal
-- LinkedIn: <YOUR_LINKEDIN_URL>
-- GitHub: <YOUR_GITHUB_URL>
-- Codolio / Portfolio: <YOUR_CODOLIO_URL>
+- LinkedIn: https://www.linkedin.com/in/khush-agrawal007
+- GitHub: https://github.com/Khush-Bhau
+- Codolio / Portfolio: https://codolio.com/profile/khushagrawal
 
 This workspace contains multiple end-to-end EDA and modeling projects. Each project folder now includes a personalized README (created by me) with run instructions and next steps.
 
@@ -24,4 +24,5 @@ Recommended next actions (I can run these for you):
 3. Replace the contact placeholders above with your live URLs.
 
 Quick export command example: jupyter nbconvert --to html "Zomato.ipynb" --output Zomato_report.html
+
 
